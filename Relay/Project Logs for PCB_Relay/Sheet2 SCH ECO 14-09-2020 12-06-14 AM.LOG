@@ -1,2 +1,0 @@
-Add Pin To Net: Pin=MCU-29 Old Net=NetMCU_29 New Net=Re_Sig
-Change Pin Designator/Name:  Old Designator=MCU-29 Old Name=IO5 New Designator =EXT_5V New Name=19
