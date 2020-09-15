@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Re_Sig Pin=MCU-29
+Removed Pin From Net: NetName=Net220VAC_2 Pin=PS_1-1
+Removed Pin From Net: NetName=Net220VAC_1 Pin=PS_1-2
+Removed Pin From Net: NetName=GND Pin=PS_1-3
+Removed Pin From Net: NetName=NetC1_1 Pin=PS_1-4
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Added Component: Designator=PS(HLKPM01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/2875605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=MCU-19
+Added Pin To Net: NetName=Net220VAC_2 Pin=PS-1
+Added Pin To Net: NetName=Net220VAC_1 Pin=PS-2
+Added Pin To Net: NetName=GND Pin=PS-3
+Added Pin To Net: NetName=NetC1_1 Pin=PS-4
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Member To Class: ClassName=Sheet2 Member=Component 220VAC 282837-2
+Added Member To Class: ClassName=Sheet2 Member=Component MCU ESP32-DEVKITC-32D
+Added Member To Class: ClassName=Sheet2 Member=Component PS HLK-PM01
+Added Room: Name=Sheet2

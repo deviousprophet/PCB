@@ -1,0 +1,21 @@
+Change Component Comment : Designator=R1 Old Comment=  New Comment=
+Added Component: Designator=P(TE_282837-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Comment_1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A113320-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.in/product-detail/en/te-connectivity-amp-connectors/282837-2/A113320-ND/2187973?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/282837-2/TE%20Connectivity%20AMP%20Connectors/view-part/2549980/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-282837-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC1_1 New Net Name=5V
+Added Pin To Net: NetName=NetP_1 Pin=P-1
+Added Pin To Net: NetName=NetP_1 Pin=PS-2
+Added Net: Name=NetP_1
+Added Pin To Net: NetName=NetP_2 Pin=P-2
+Added Pin To Net: NetName=NetP_2 Pin=PS-1
+Added Net: Name=NetP_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
