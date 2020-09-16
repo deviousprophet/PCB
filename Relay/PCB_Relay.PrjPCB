@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWKTUPWP
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Relay\Design Rule Check - PCB_Relay.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
