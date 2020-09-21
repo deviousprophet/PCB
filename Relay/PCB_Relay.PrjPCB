@@ -71,18 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWKTUPWP
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Relay\PCB_Relay.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Relay\PCB_Relay.REP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Relay\PCB_Relay.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
